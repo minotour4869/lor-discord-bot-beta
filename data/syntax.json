@@ -1,0 +1,58 @@
+{
+    "en_us":
+    {
+        "keywords": "Keywords",
+        "levelup": "Level Up",
+        "spellSpeed": "Spell Speed",
+        "description": "Description",
+        "cardnotfound": "Card not found!",
+        "ch": "Champion",
+        "fl": "Follower",
+        "sp": "Spell",
+        "lm": "Landmark",
+        "un": "Unit",
+        "chs": "Champions",
+        "fls": "Followers",
+        "sps": "Spells",
+        "lms": "Landmarks",
+        "uns": "Units",
+        "did": "Imported Deck",
+        "rg": "Regions"
+    },
+    "vi_vn":
+    {
+        "keywords": "Từ khóa",
+        "levelup": "Thăng Cấp",
+        "spellSpeed": "Phép Tốc",
+        "description": "Mô tả",
+        "cardnotfound": "Không tìm thấy bài!",
+        "ch": "Anh hùng",
+        "fl": "Tùy tùng",
+        "sp": "Bài phép",
+        "lm": "Địa Danh",
+        "un": "Bài quân",
+        "chs": "Anh hùng",
+        "fls": "Tùy tùng",
+        "sps": "Bài phép",
+        "lms": "Địa Danh",
+        "uns": "Bài quân",
+        "did": "Bộ bài đã được nhập mã",
+        "rg": "Khu vực"
+    },
+    "emote":
+    {
+        "BW": "873035628357509181",
+        "DE": "873035628424618096",
+        "IO": "873035628206493756",
+        "MT": "873035628273602670",
+        "NX": "873035628307165214",
+        "PZ": "873035628344909854",
+        "SH": "873035628206514176",
+        "SI": "873035628353306664",
+        "CH": "873034637511917620",
+        "CO": "873034637709045762",
+        "EP": "873034637683884042",
+        "RA": "873034637671301192",
+        "FR": "873418084155818065"
+    }
+}

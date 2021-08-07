@@ -1,0 +1,6 @@
+discord
+discord.py
+discord-py-slash-command
+python_dotenv
+lor_deckcodes
+requests
