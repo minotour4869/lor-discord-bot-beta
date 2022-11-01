@@ -1,6 +1,6 @@
 # lor-deckdiscord
 
-Một con bot (nhảm nhí) trong giai đoạn học tập python và bot, dùng để lấy thông tin một card hoặc một deck trong game Legends of Runeterra. (LoR)
+Một con bot (nhảm nhí) trong giai đoạn học tập python và bot, dùng để lấy thông tin một card hoặc một deck của tựa game Legends of Runeterra. (LoR)
 
 # Cách sử dụng
 
